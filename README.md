@@ -1,7 +1,7 @@
 # Feedback-Bot  
 
-  <b> REPOSITÓRIO OFICIAL = https://github.com/HeimanPictures/Feedback-bot
- SE QUISER CORREÇÕES DE BUGS E ATUALIZAÇÕES VÁ NELE
+ <b>REPOSITÓRIO OFICIAL = https://github.com/HeimanPictures/Feedback-bot
+ <b> SE QUISER CORREÇÕES DE BUGS E ATUALIZAÇÕES VÁ NELE
   
   <b>Hey, This Is [Feedback Bot](/) Made By Using Python And Pyrogram Framework
  This is enovation of [AkKiL](https://github.com/HeimanPictures/HeimanPictures/) 😇.
