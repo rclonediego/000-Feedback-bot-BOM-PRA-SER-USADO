@@ -1,6 +1,6 @@
 # Feedback-Bot  
 
-<br>>REPOSITÓRIO OFICIAL = https://github.com/HeimanPictures/Feedback-bot<br>
+<br>REPOSITÓRIO OFICIAL = https://github.com/HeimanPictures/Feedback-bot
 <br> SE QUISER CORREÇÕES DE BUGS E ATUALIZAÇÕES VÁ NELE<br>
   
   <b>Hey, This Is [Feedback Bot](/) Made By Using Python And Pyrogram Framework
